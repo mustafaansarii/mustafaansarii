@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **mustafa.a@null.net**
 
-- ⚡ Fun fact **i'm funny.**
+- ⚡ Fun fact **i'm too smiley.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
