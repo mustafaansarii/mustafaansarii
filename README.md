@@ -33,7 +33,7 @@
 <a href="https://linkedin.com/in/mustafands" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafands" height="30" width="40" /></a>
 <a href="https://instagram.com/mustafa.nds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mustafa.nds" height="30" width="40" /></a>
 <a href="https://hashnode.com/@mustafaansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@mustafaansari" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/smartx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="smartx" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@mustafasmartX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="smartx" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mustafaansarii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mustafaansarii" height="30" width="40" /></a>
 </p>
 
