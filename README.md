@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with **collaboration on project**
 
-- 👨‍💻 All of my projects are available at [mustafaansari.rf.gd](mustafaansari.rf.gd/)
+- 👨‍💻 All of my projects are available at [https://github.com/mustafaansarii?tab=repositories]
 
 - 📝 I regularly write articles on [Technical ideas](Technical ideas)
 
