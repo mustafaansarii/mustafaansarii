@@ -1,4 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]([https://rishavchanda.io](http://mustafaansari.rf.gd/))
+<p align="right">
+    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Software+Developer;Open+Source+Contributor;Tech+Enthusiast;CSE+Undergrad" />
 <h1 align="center">Hi 👋, I'm Mustafa ansari</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
