@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafaansarii&label=Profile%20views&color=0e75b6&style=flat" alt="mustafaansarii" /> </p>
 <br>
-<p align="center" width="150px">I am currently a 1st Year student at MMDU, Ambala  pursuing my B Tech degree in Computer science and Engineering.Here to contribute in Open Source projects and learn new things on the go.</p>
+<p align="center" width="150px">I am a curious and eager learner who loves to explore new technologies with a goal-oriented approach. I am a 1st year student of B.Tech in computer science and engineering. And I have some programming experience. I am interested in software development and currently exploring Data Science.</p>
 </p>
 <br>
 
