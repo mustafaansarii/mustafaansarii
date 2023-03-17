@@ -1,9 +1,14 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mustafa ansari</h1>
 <h3 align="center">A passionate Software developer from India</h3>
+
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafaansarii&label=Profile%20views&color=0e75b6&style=flat" alt="mustafaansarii" /> </p>
+<br>
+<p align="center" width="150px">I am currently a 1st Year student at MMDU, Ambala  pursuing my B Tech degree in Computer science and Engineering.Here to contribute in Open Source projects and learn new things on the go.</p>
+</p>
+<br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafaansarii" alt="mustafaansarii" /></a> </p>
 
