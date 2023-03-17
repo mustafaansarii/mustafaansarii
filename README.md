@@ -8,7 +8,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafaansarii&label=Profile%20views&color=0e75b6&style=flat" alt="mustafaansarii" /> </p>
 <br>
-<p align="center" width="150px">I am a curious and eager learner who loves to explore new technologies with a goal-oriented approach. I am a 1st year student of B.Tech in computer science and engineering. And I have some programming experience. I am interested in software development and currently exploring Data Science.</p>
+<b>
+<p align="center" width="150px">I am a curious and eager learner who loves to explore new technologies with a goal-oriented approach. I am a 1st year student of B.Tech in computer science and engineering. And I have some programming experience. I am interested in software development and currently exploring Data Science.</p> </b>
 </p>
 <br>
 
