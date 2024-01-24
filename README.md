@@ -6,17 +6,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafaansarii" alt="mustafaansarii" /></a> </p>
 
-- 🔭 I’m currently working on [Data Analysis](http://mustafaansari.rf.gd/)
+- 🔭 I’m currently working on [Data Analysis](https://mustafaansari.rf.gd/)
 
 - 🌱 I’m currently learning **Data Analysis**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 👨‍💻 All of my projects are available at [http://mustafaansari.rf.gd/](http://mustafaansari.rf.gd/)
+- 👨‍💻 All of my projects are available at [http://mustafaansari.rf.gd/](https://mustafaansari.rf.gd/)
 
 - 📫 How to reach me **mustafaansari@mail.com**
 
-- 📄 Know about my experiences [http://mustafaansari.rf.gd/](http://mustafaansari.rf.gd/)
+- 📄 Know about my experiences [http://mustafaansari.rf.gd/](https://mustafaansari.rf.gd/)
 
 - ⚡ Fun fact **i'm a good proble solver**
 
