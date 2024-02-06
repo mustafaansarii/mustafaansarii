@@ -1,4 +1,4 @@
-[![Hello, world](github-header-image.png)](https://github.com/mappum)
+[![Hello, world](github-header-image.png)]()
 <h1 align="center">Hi 👋, I'm Mustafa Ansari</h1>
 <h3 align="center">A passionate data science student on a journey to explore the realms of data and turn insights into meaningful stories.</h3>
 
