@@ -15,7 +15,9 @@ Proficient in Python programming, I excel in the art of data analysis. My expert
 
 
 ### Featured Projects
-
+#### Featured Projects
+* [Titanic Survival Prediction](https://github.com/mustafaansarii/PRODIGY_DS_INTERN/tree/main/PRODIGY_DS_Task-02)
+* [Hotel room reservation Analysis](https://mustafaansari.rf.gd/hotel%20booking.html)
 
 
 
