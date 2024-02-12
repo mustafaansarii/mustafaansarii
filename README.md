@@ -30,9 +30,6 @@ Proficient in Python programming, I excel in the art of data analysis. My expert
 ---
 [![](https://visitcount.itsvg.in/api?id=mustafaansarii&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-🚀 Visit my personal portfolio [here](https://mustafaansari.rf.gd/)
 
 ### Contact Me
 
@@ -40,3 +37,4 @@ Feel free to reach out:
 
 - **Email**: [mustafaansari@mail.com](mailto:mustafaansari@mail.com)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/mustafaansaari/)
+- 🚀 Visit my personal portfolio [mustafaansari.rf.gd](https://mustafaansari.rf.gd/)
