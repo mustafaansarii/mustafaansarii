@@ -28,8 +28,8 @@ Proficient in Python programming, I excel in the art of data analysis. My expert
 
 <img src="https://github-profile-trophy.vercel.app/?username=mustafaansarii&theme=dracula"/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mustafaansarii&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mustafaansarii&theme=dark&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mustafaansarii&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaansarii&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
