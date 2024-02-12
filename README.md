@@ -1,3 +1,4 @@
+### Introduction
 Hello! I'm Mustafa Ansari, a passionate 4th-semester Computer Science Engineering student specializing in Data Science at Maharishi Markandeshwar (Deemed to be University) in Ambala, India. I am driven by a curiosity for unraveling insights from complex datasets.
 
 Proficient in Python programming, I excel in the art of data analysis. My expertise extends across various aspects, including data cleaning, statistical analysis, and visualization using Matplotlib and Pandas. I possess a keen understanding of database management, leveraging SQL for efficient data extraction. Additionally, I have a solid grasp of Data Structure techniques, and my knowledge extends to big data technologies such as Hadoop and Spark, enabling me to handle large-scale datasets with efficiency.
