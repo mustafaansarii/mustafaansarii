@@ -12,8 +12,7 @@ Proficient in Python programming, I excel in the art of data analysis. My expert
 
 ### Technical Proficiency
 
-💻 Tech Stack:
-Python Java Render Flask MySQL Canva Matplotlib NumPy Pandas Plotly PyTorch
+Python | Java | Render | Flask | MySQL | Canva | Matplotlib | NumPy | Pandas | Plotly | PyTorch
 
 
 ### Featured Projects
