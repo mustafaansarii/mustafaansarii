@@ -23,10 +23,3 @@ Feel free to reach out via email at mustafaansari@mail.com for professional inqu
 
 Location: Maharishi Markandeshwar (Deemed to be University), Mullana, Ambala, India 133207
 Email: mustafaansari@mail.com
-LinkedIn: mustafaansari
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafaansarii&show_icons=true&locale=en&layout=compact" alt="mustafaansarii" /></p>
-
