@@ -31,5 +31,5 @@ Python Java Render Flask MySQL Canva Matplotlib NumPy Pandas Plotly PyTorch
 
 Feel free to reach out:
 
-- **Email**: [sushant.dhiman9812@gmail.com](mailto:mustafaansari@mail.com)
-- **LinkedIn**: [Sushant's LinkedIn Profile](https://www.linkedin.com/in/mustafaansaari/)
+- **Email**: [mustafaansari@mail.com](mailto:mustafaansari@mail.com)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/mustafaansaari/)
