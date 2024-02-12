@@ -1,4 +1,8 @@
 [![Hello, world](github-header-image.png)]()
+[![](https://visitcount.itsvg.in/api?id=mustafaansarii&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafaansarii&label=Profile%20views&color=0e75b6&style=flat" alt="mustafaansarii" /> </p>
 
 
 # 💫 About Me:
@@ -14,14 +18,6 @@ Welcome! I'm Mustafa Ansari, a dedicated 4th-semester Computer Science Engineeri
 ![](https://github-readme-stats.vercel.app/api?username=mustafaansarii&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mustafaansarii&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaansarii&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=mustafaansarii&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafaansarii&label=Profile%20views&color=0e75b6&style=flat" alt="mustafaansarii" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafaansarii" alt="mustafaansarii" /></a> </p>
 
 
 Feel free to reach out via email at mustafaansari@mail.com for professional inquiries or connect with me on LinkedIn for updates on my latest projects and contributions. For a more detailed overview of my work and interests, visit my personal website.
