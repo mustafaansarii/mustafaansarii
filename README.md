@@ -6,35 +6,24 @@
 
 # Mustafa Ansari - Data Analyst
 
-## About
+# 💫 About Me:
+Welcome! I'm Mustafa Ansari, a dedicated 4th-semester Computer Science Engineering student specializing in Data Science at Maharishi Markandeshwar (Deemed to be University) in Ambala, India. My passion lies in unraveling insights from complex datasets, driven by a curiosity for data analysis.<br>
 
-Welcome! I'm Mustafa Ansari, a dedicated 4th-semester Computer Science Engineering student specializing in Data Science at Maharishi Markandeshwar (Deemed to be University) in Ambala, India. My passion lies in unraveling insights from complex datasets, driven by a curiosity for data analysis.
 
-### Data Analyst Expertise
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mustafaansaari) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mustafaansaari) 
 
-Proficient in Python programming, I excel in various data analysis aspects, including cleaning, statistical analysis, and visualization using Matplotlib and Pandas. Additionally, I have a strong grasp of database management with SQL, along with knowledge in Data Structure techniques and big data technologies such as Hadoop and Spark.
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mustafaansarii&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mustafaansarii&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaansarii&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Skills & Expertise
+---
+[![](https://visitcount.itsvg.in/api?id=mustafaansarii&icon=0&color=0)](https://visitcount.itsvg.in)
 
-My proficiency in Python forms the core of my capabilities, empowering me to tackle diverse data analysis tasks with finesse. I specialize in data cleaning, statistical analysis, and visualization using Matplotlib, Pandas, Numpy, and Data Manipulation. Alongside Python, I also possess skills in MySQL, Excel, HTML, and Power BI, enabling comprehensive data analysis and reporting.
-
-## Professional Experience
-
-Currently, I'm engaged as a Data Science Intern at CodeClause Pvt Ltd and CodSoft, where I apply my data analysis skills to real-world projects, honing my expertise and contributing to impactful solutions.
-
-## Education
-
-I'm pursuing a Bachelor of Technology degree at Maharishi Markandeshwar (Deemed to be University), Ambala, India, with a specialization in Data Science. Prior to this, I completed my Senior Secondary education at SMN High+2 School, Sitamarhi Bihar, India.
-
-## Portfolio & Certifications
-
-Explore my portfolio showcasing diverse data analytics projects, demonstrating my proficiency in translating complex datasets into insightful visual representations. Additionally, check out my certifications in Data Analysis with Python, Python 101 for Data Science, Problem Solving, and more, reflecting my commitment to continuous learning and professional development.
-
-## Services Offered
-
-Passionate about leveraging my skills, I offer a range of services in data analytics. Specializing in data visualization, database design and management, machine learning and AI, technical writing, responsive design, and data analysis, I deliver high-quality solutions across various domains.
-
-## Contact Me
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 Feel free to reach out via email at mustafaansari@mail.com for professional inquiries or connect with me on LinkedIn for updates on my latest projects and contributions. For a more detailed overview of my work and interests, visit my personal website.
 
