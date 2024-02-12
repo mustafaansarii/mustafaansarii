@@ -36,5 +36,5 @@ Proficient in Python programming, I excel in the art of data analysis. My expert
 Feel free to reach out:
 
 - **Email**: [mustafaansari@mail.com](mailto:mustafaansari@mail.com)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/mustafaansaari/)
+- **LinkedIn**: [mustafaansaari](https://www.linkedin.com/in/mustafaansaari/)
 - 🚀 Visit my personal portfolio [mustafaansari.rf.gd](https://mustafaansari.rf.gd/)
