@@ -1,10 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=mustafaansarii&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafaansarii&label=Profile%20views&color=0e75b6&style=flat" alt="mustafaansarii" /> </p>
 
-
-# 💫 About Me:
 Welcome! I'm Mustafa Ansari, a dedicated 4th-semester Computer Science Engineering student specializing in Data Science at Maharishi Markandeshwar (Deemed to be University) in Ambala, India. My passion lies in unraveling insights from complex datasets, driven by a curiosity for data analysis.<br>
 
 
