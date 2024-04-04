@@ -16,11 +16,11 @@ Proficient in Python programming, I excel in the art of data analysis. My expert
 
 
 ### Featured Projects
-* [Titanic Survival Prediction](https://github.com/mustafaansarii/PRODIGY_DS_INTERN/tree/main/PRODIGY_DS_Task-02)
-* [Hotel room reservation Analysis](https://mustafaansari.rf.gd/hotel%20booking.html)
-* [Restaurant Analysis Project](https://github.com/mustafaansarii/Cognifyz_Technologies_Internship)
-* [Intelligent Robotic Interactive System](https://mustafaansari.rf.gd/IRIS%20AI.html)
-* [Customer Segmentation with K-Means Clustering](https://github.com/mustafaansarii/CodeClauseInternship_Customer-Segmentation-with-K-Means-Clustering)
+* [Hollywood Movie Recommendation System](https://github.com/mustafaansarii/Movie-Recommendation-System.)
+* [World Restaurant Analysis Project](https://github.com/mustafaansarii/Restaurant_Data_Analysis)
+* [Weather Information App](https://github.com/mustafaansarii/Weather-App)
+* [Intelligent Robotic Interactive System](https://github.com/mustafaansarii/IRIS-AI)
+* [A Bike Rental System](https://github.com/mustafaansarii/A-Bike-Rental-System)
 
 
 
