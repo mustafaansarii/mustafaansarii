@@ -1,8 +1,5 @@
 ### Introduction
-Hello! I'm Mustafa Ansari, a passionate 4th-semester (B.tech) Computer Science Engineering student specializing in Data Science at Maharishi Markandeshwar (Deemed to be University) in Ambala, India. I am driven by a curiosity for unraveling insights from complex datasets.
-
-Proficient in Python programming, I excel in the art of data analysis. My expertise extends across various aspects, including data cleaning, statistical analysis, and visualization using Matplotlib and Pandas. I possess a keen understanding of database management, leveraging SQL for efficient data extraction. Additionally, I have a solid grasp of Data Structure techniques, and my knowledge extends to big data technologies such as Hadoop and Spark, enabling me to handle large-scale datasets with efficiency.
-
+Hello! I'm Mustafa Ansari, a B.Tech Computer Science Engineering student specializing in Data Science. Proficient in Python,Java,SQL,and with a keen interest in machine learning and Java full stac.
 
 ### Personal Endeavors
 
@@ -27,17 +24,18 @@ Proficient in Python programming, I excel in the art of data analysis. My expert
 
 
 # 📊 Tech Stats:
-
-<table>
+<table style="border-collapse: collapse; width: 100%; border: none;">
   <tr>
-    <td><img src="https://leetcard.jacoblin.cool/mustafaansari?theme=forest&font=Baloo%20Bhai%202" width="400" height="200" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafaansarii&theme=dark&hide_border=false" width="400" height="200" /></td>
+    <td style="padding: 0; border: none;"><img src="https://leetcard.jacoblin.cool/mustafaansari?theme=forest&font=Baloo%20Bhai%202" width="400" height="200" /></td>
+    <td style="padding: 0; border: none;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafaansarii&theme=dark&hide_border=false" width="400" height="200" /></td>
   </tr>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=mustafaansarii&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="400" height="200" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaansarii&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="360" height="200" /></td>
+    <td style="padding: 0; border: none;"><img src="https://github-readme-stats.vercel.app/api?username=mustafaansarii&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="400" height="200" /></td>
+    <td style="padding: 0; border: none;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaansarii&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="360" height="200" /></td>
   </tr>
 </table>
+
+
 
 
 
