@@ -1,5 +1,6 @@
 ### Introduction
-Hello! I'm Mustafa Ansari, a B.Tech Computer Science Engineering student specializing in Data Science. Proficient in Python,Java,SQL,and with a keen interest in machine learning and Java full stac.
+
+Hello! I'm Mustafa Ansari, a B.Tech Computer Science Engineering student specializing in Data Science. Proficient in Python, Java, and SQL, I have a keen interest in machine learning and full-stack Java development.
 
 ### Personal Endeavors
 
