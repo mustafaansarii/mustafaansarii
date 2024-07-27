@@ -26,14 +26,16 @@ Proficient in Python programming, I excel in the art of data analysis. My expert
 
 
 
-# 📊 GitHub Stats:
-
-<img src="https://github-profile-trophy.vercel.app/?username=mustafaansarii&theme=dracula"/>
+# 📊 Tech Stats:
 
 
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/mustafaansari?theme=forest&font=Baloo%20Bhai%202)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mustafaansarii&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaansarii&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mustafaansarii&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaansarii&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 
