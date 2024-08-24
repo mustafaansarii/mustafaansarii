@@ -22,16 +22,16 @@ Hello! I'm Mustafa Ansari, a B.Tech Computer Science Engineering student special
 
 
 # 📊 Tech Stats:
-<table style="border-collapse: collapse; width: 100%; border: none;">
-  <tr>
-    <td style="padding: 0; border: none;"><img src="https://leetcard.jacoblin.cool/mustafaansari?theme=forest&font=Baloo%20Bhai%202" width="400" height="200" /></td>
-    <td style="padding: 0; border: none;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafaansarii&theme=dark&hide_border=false" width="400" height="200" /></td>
-  </tr>
-  <tr>
-    <td style="padding: 0; border: none;"><img src="https://github-readme-stats.vercel.app/api?username=mustafaansarii&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="400" height="200" /></td>
-    <td style="padding: 0; border: none;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaansarii&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="360" height="200" /></td>
-  </tr>
-</table>
+## My Profiles and Stats
+
+![LeetCode Card](https://leetcard.jacoblin.cool/mustafaansari?theme=forest&font=Baloo%20Bhai%202)
+
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mustafaansarii&theme=dark&hide_border=false)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mustafaansarii&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaansarii&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 
