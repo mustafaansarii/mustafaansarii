@@ -21,7 +21,7 @@ Hello! I'm Mustafa Ansari, a B.Tech Computer Science Engineering student special
 
 
 
-# 📊 Tech Stats:
+## 📊 Tech Stats:
 
 <table>
   <tr>
