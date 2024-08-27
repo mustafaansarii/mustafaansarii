@@ -10,17 +10,6 @@ Hello! I'm Mustafa Ansari, a B.Tech Computer Science Engineering student special
 * 📄 Check out my resume [here](https://mustafaansari.rf.gd/resume.pdf).
 
 
-
-
-### Featured Projects
-* [Hollywood Movie Recommendation System](https://github.com/mustafaansarii/Movie-Recommendation-System.)
-* [World Restaurant Analysis Project](https://github.com/mustafaansarii/Restaurant_Data_Analysis)
-* [Weather Information App](https://github.com/mustafaansarii/Weather-App)
-* [Intelligent Robotic Interactive System](https://github.com/mustafaansarii/IRIS-AI)
-* [A Bike Rental System](https://github.com/mustafaansarii/A-Bike-Rental-System)
-
-
-
 ## 📊 Tech Stats:
 
 <table>
@@ -49,4 +38,4 @@ Feel free to reach out:
 
 - **Email**: [mustafaansari@mail.com](mailto:mustafaansari@mail.com)
 - **LinkedIn**: [mustafaansaari](https://www.linkedin.com/in/mustafaansaari/)
-- 🚀 Visit my personal portfolio [mustafaansari.rf.gd](https://mustafaansari.rf.gd/)
+- 🚀 Visit my personal portfolio [mustafaansari.rf.gd](https://mustafaansarii.web.app/)
