@@ -7,7 +7,7 @@ Hello! I'm Mustafa Ansari, a B.Tech Computer Science Engineering student special
 * 👨‍💻 I'm currently engaged in expanding my knowledge base.
 * 👯 I’m open to collaborating on Open-Source Projects.
 * 💬 Feel free to reach out for discussions on Web Dev and ML.
-* 📄 Check out my resume [here](https://mustafaansarii.web.app/resume.pdf).
+* 📄 Check out my resume [here](https://drive.google.com/file/d/1FJJrvvF6Dw6LHh3HYlRZvM0G-9I9rrTP/view).
 
 
 ## 📊 Tech Stats:
