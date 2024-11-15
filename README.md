@@ -1,4 +1,3 @@
-### Introduction
 
 Hi, I'm Mustafa Ansari, a 3rd-year Computer Science Engineering student specializing in Data Science at Maharishi Markandeshwar University, Ambala, India. I am curious about full-stack development and focus on software solutions for real-world problems. Having solved over 600+ coding challenges, I am enthusiastic about competitive programming and continuously enhancing my technical skills.
 
