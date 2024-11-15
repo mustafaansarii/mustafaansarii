@@ -14,12 +14,8 @@ Hi, I'm Mustafa Ansari, a 3rd-year Computer Science Engineering student speciali
 
 <table>
   <tr>
-    <td style="width: 100%; display: block; text-align: center;">
-      <img src="https://leetcard.jacoblin.cool/mustafaansari?theme=forest&font=Baloo%20Bhai%202" alt="LeetCode Card" style="max-width: 100%; height: auto;" />
-    </td>
-    <td style="width: 100%; display: block; text-align: center;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafaansarii&theme=dark&hide_border=false" alt="GitHub Streak Stats" style="max-width: 100%; height: auto;" />
-    </td>
+
+
   </tr>
   <tr>
     <td style="width: 100%; display: block; text-align: center;">
