@@ -1,5 +1,4 @@
 
-## 👋 About Me
 
 I'm **Mustafa Ansari**, a **Computer Science student** at **Maharishi Markandeshwar University**, specializing in **Data Science**. I’m passionate about **full-stack development** and tackling real-world problems through software solutions. With 600+ coding challenges solved, I enjoy **competitive programming** and continually improving my technical skills.
 
