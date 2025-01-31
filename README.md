@@ -1,16 +1,19 @@
 
-Hi, I'm Mustafa Ansari, a 3rd-year Computer Science Engineering student specializing in Data Science at Maharishi Markandeshwar University, Ambala, India. I am curious about full-stack development and focus on software solutions for real-world problems. Having solved over 600+ coding challenges, I am enthusiastic about competitive programming and continuously enhancing my technical skills.
+## 👋 About Me
 
-### Personal Endeavors
+I'm **Mustafa Ansari**, a **Computer Science student** at **Maharishi Markandeshwar University**, specializing in **Data Science**. I’m passionate about **full-stack development** and tackling real-world problems through software solutions. With 600+ coding challenges solved, I enjoy **competitive programming** and continually improving my technical skills.
 
-* 👨‍💻 I'm currently engaged in expanding my knowledge base.
-* 👯 I’m open to collaborating on Open-Source Projects.
-* 💬 Feel free to reach out for discussions on Web Dev and ML.
-* 📄 Check out my resume [here](https://drive.google.com/file/d/1FJJrvvF6Dw6LHh3HYlRZvM0G-9I9rrTP/view).
+---
 
+## 🚀 Current Focus
 
-## 📊 Tech Stats:
+- **Deepening knowledge** in **Web Development** and **Data Science**  
+- **Collaborating on open-source projects**
+- **Discussing** Web Development, Machine Learning, or anything tech-related  
 
+---
+
+## 📊 GitHub Stats
 <table>
   <tr>
 
@@ -26,11 +29,10 @@ Hi, I'm Mustafa Ansari, a 3rd-year Computer Science Engineering student speciali
   </tr>
 </table>
 
+---
 
+## 💬 Connect with Me
 
-
-Feel free to reach out:
-
-- **Email**: [mustafaansari@mail.com](mailto:mustafaansari@mail.com)
-- **LinkedIn**: [mustafaansaari](https://www.linkedin.com/in/mustafaansaari/)
-- 🚀 Visit my personal portfolio [mustafaansari.rf.gd](https://mustafaansarii.web.app/)
+- 📧 [mustafaansari@mail.com](mailto:mustafaansari@mail.com)
+- 🔗 [linkedin/in/mustafaansaari/](https://www.linkedin.com/in/mustafaansaari/)
+- 🌐 [mustafaansari.in](https://www.mustafaansari.in/)
