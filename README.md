@@ -1,6 +1,7 @@
-## 👋 Hey, I'm **Mustafa Ansari**
+## 👋 Hey, I'm Mustafa Ansari
 
-**Software Engineer at Increff** | **Computer Science & Engineering Undergraduate**
-Passionate about **backend development, scalable systems, and clean architecture**.
+**Software Engineer at Increff** | **B.Tech in Computer Science & Engineering**
 
-I enjoy building end-to-end solutions—from crafting efficient APIs to designing intuitive front-end interfaces. With **600+ coding problems solved** across platforms, I actively engage in **competitive programming** and continuously sharpen my DSA skills.
+Passionate about **backend development, scalable systems, distributed architectures, and clean code**.
+
+I enjoy building end-to-end solutions—from designing scalable microservices and REST APIs to developing intuitive user experiences. With strong problem-solving skills, I actively engage in competitive programming and continuously strengthen my software engineering fundamentals.
